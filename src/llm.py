@@ -9,7 +9,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain.chains import ConversationChain
 from langchain.memory import ConversationBufferMemory
-from prompts import template,document_template
+from src.prompts import template,document_template
 import os
 from dotenv import load_dotenv
 

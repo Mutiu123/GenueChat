@@ -10,3 +10,4 @@ document_template = """Answer the question based only on the following context:
 
 Question: {question}
 """
+
