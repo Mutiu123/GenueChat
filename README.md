@@ -29,8 +29,11 @@ Would you like to explore any specific part of this presentation in more detail?
 
 ## **System Demo:**
 
-![The System Demo](https://github.com/Mutiu123/Medical-Insurence-Premium-prediction-System/blob/main/demos/demo1.png)
+![The System Demo1](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.20.37.png)
 
+![The System Demo1](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.22.44.png) 
+
+![The System Demo1](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.35.33.png)
 
 ### Prerequisites
 
@@ -66,4 +69,4 @@ Would you like to explore any specific part of this presentation in more detail?
 
 **Access the Deployed App**:
    - Visit the following link: [GenueChat](https://a7f923d8262b8dd3d4.gradio.live).
-   - You'll see the web interface where users can input patient information and get predictions.
+   - You'll see the web interface where users can input patient information and get response.
