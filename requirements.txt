@@ -1,0 +1,10 @@
+langchain
+pypdf
+gradio
+langchain_huggingface
+langchain_groq
+python-dotenv
+faiss-cpu 
+langchain_community
+tiktoken
+-e .
