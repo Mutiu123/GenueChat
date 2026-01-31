@@ -88,6 +88,16 @@ deployment configurations for Docker and Kubernetes.
 
 ---
 
+## System Demo
+
+![The System Demo1](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.20.37.png)
+
+![The System Demo2](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.22.44.png)
+
+![The System Demo3](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.35.33.png)
+
+---
+
 ## Features
 
 ### Security
@@ -617,15 +627,6 @@ GenueChat provides value through:
 
 ---
 
-## System Demo
-
-![The System Demo1](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.20.37.png)
-
-![The System Demo2](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.22.44.png)
-
-![The System Demo3](https://github.com/Mutiu123/GenueChat/blob/main/demo/Screenshot%202024-08-22%20at%2021.35.33.png)
-
----
 
 ## Documentation
 
